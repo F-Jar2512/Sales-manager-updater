@@ -1,6 +1,7 @@
 {
   "latest_version": "0.2.0",
   "version_date": "(10/July/2025)",
-  "notes": "-- Add Auto Update.\n-- Add DataBase Backup.",
-  "download_url": "https://api.github.com/repos/F-Jar2512/PZ-sales-manager/releases/assets/271604073"
+  "notes": "-- Add Auto Update.\n\n-- Add DataBase Backup.",
+  "download_url": "https://api.github.com/repos/F-Jar2512/PZ-sales-manager/releases/assets/271604073",
+  "sha256": "4671d9ce029bdfc17073f1fc5385c1201735cdf67168058ca01e2f4c9999bd92"
 }
