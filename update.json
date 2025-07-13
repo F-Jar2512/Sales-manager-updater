@@ -1,7 +1,7 @@
 {
-  "download_url": "https://github.com/F-Jar2512/PZ-sales-manager/releases/download/1.0.0/Sales_Manager_1.0.0.exe",
-  "sha256": "02574d86dba9887cce10a5cdd46c535a09fa6b3417e5a250a89e456576ea9117",
-  "version_date": "(13 July 2025)",
+  "notes": "-- Add New Features.(nl)-- Add Auto Update.(nl)-- Final Build.",
   "latest_version": "1.0.0",
-  "notes": "\"-- Add New Features.\\n-- Auto Update.\""
+  "version_date": "(13 July 2025)",
+  "download_url": "https://github.com/F-Jar2512/PZ-sales-manager/releases/download/1.0.0/Sales_Manager_1.0.0.exe",
+  "sha256": "212ae4abb439dbf93b71cbbbddd7f932d639e8b59d8c56b5b385b610042c0f33"
 }
