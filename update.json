@@ -1,7 +1,7 @@
 {
-  "notes": "-- Add New Features.(nl)-- Add Auto Update.(nl)-- Final Build.",
-  "download_url": "https://api.github.com/repos/F-Jar2512/PZ-sales-manager/releases/assets/272487924",
-  "version_date": "(13 July 2025)",
-  "sha256": "e45a190db9a840d4925a1c8db55a700081eb99a66037d767d5ff51f91527cd66",
-  "latest_version": "1.0.0"
+  "sha256": "c2a5b00625bbe9e83a113d511f9c4b31781a36cf03fb8710d2f0ad5cd53f9251",
+  "latest_version": "1.0.1",
+  "notes": "-- Fix battery status not shown when generate report from history.(nl)-- Fix customers phone numbers not retreved correctly from database if phone number iso format contain dashes (-).(nl)-- Fix manager database table wil always set to Usres after editing or cancel editing report or customer.(nl)-- Fix New Report button will still active after editing or cancel editing report.(nl)-- Fix critical bug that prevent customer ID to be inserted to database.(nl)-- Fix admin can change admin role even if there is only one admin.(nl)-- Fix widget bugs.",
+  "version_date": "(25 August 2025)",
+  "download_url": "https://api.github.com/repos/F-Jar2512/PZ-sales-manager/releases/assets/286027741"
 }
